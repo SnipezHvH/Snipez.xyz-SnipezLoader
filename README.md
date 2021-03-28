@@ -1,2 +1,2 @@
 # Snipez.xyz-Support
-Support of Snipez.xyz Project
+Under Issues you can report Bugs or share your own Ideas.
